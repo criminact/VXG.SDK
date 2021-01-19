@@ -1,0 +1,2 @@
+include ':streamland_player',
+        ':streamland_streamer'

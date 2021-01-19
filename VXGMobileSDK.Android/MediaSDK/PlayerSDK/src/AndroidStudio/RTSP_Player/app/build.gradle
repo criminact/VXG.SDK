@@ -1,0 +1,41 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 29
+
+    defaultConfig {
+	applicationId "org.rtspplayer.sample"
+        minSdkVersion 17
+        targetSdkVersion 26
+    }
+
+    lintOptions {
+        disable 'ValidFragment'
+        checkReleaseBuilds false
+    }
+
+    buildTypes {
+        debug {
+        }
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+
+    buildToolsVersion = '29.0.2'
+
+    compileOptions {
+       sourceCompatibility 1.8
+       targetCompatibility 1.8
+    }
+}
+
+
+dependencies {
+    implementation 'com.vxg.mediasdk:playersdk:6.96.20201203'
+    implementation 'androidx.appcompat:appcompat:1.0.0'
+    implementation 'androidx.legacy:legacy-support-v4:1.0.0'
+    compile files('./src/main/libs/org.apache.http.legacy.jar')
+}
+

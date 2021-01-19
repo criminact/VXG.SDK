@@ -1,0 +1,239 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/xriminact/VXG.Mobile.SDK.Android-2.0.262_201203/VXGMobileSDK.Android/MediaSDK/EncoderSDK/src/MediaStreamTest/app/src/main/AndroidManifest.xml:2:1-47:12
+INJECTED from /home/xriminact/VXG.Mobile.SDK.Android-2.0.262_201203/VXGMobileSDK.Android/MediaSDK/EncoderSDK/src/MediaStreamTest/app/src/main/AndroidManifest.xml:2:1-47:12
+INJECTED from /home/xriminact/VXG.Mobile.SDK.Android-2.0.262_201203/VXGMobileSDK.Android/MediaSDK/EncoderSDK/src/MediaStreamTest/app/src/main/AndroidManifest.xml:2:1-47:12
+INJECTED from /home/xriminact/VXG.Mobile.SDK.Android-2.0.262_201203/VXGMobileSDK.Android/MediaSDK/EncoderSDK/src/MediaStreamTest/app/src/main/AndroidManifest.xml:2:1-47:12
+MERGED from [androidx.appcompat:appcompat:1.0.0] /home/xriminact/.gradle/caches/transforms-2/files-2.1/7df26908078c74ff4eeaf46e7b6b476c/appcompat-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/xriminact/.gradle/caches/transforms-2/files-2.1/062eb74c1a6fe650432564db4113c6b5/legacy-support-v4-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.vxg.mediasdk:encodersdk:6.12.20201203] /home/xriminact/.gradle/caches/transforms-2/files-2.1/7e8ab645bf4684495e5ca1b828076554/encodersdk-6.12.20201203/AndroidManifest.xml:2:1-34:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/xriminact/.gradle/caches/transforms-2/files-2.1/3ec6fa8458ddbe732478393a9f9e6c77/constraintlayout-1.1.3/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.fragment:fragment:1.0.0] /home/xriminact/.gradle/caches/transforms-2/files-2.1/4f680f5cab482b7966fa9c805ac0cb70/fragment-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/xriminact/.gradle/caches/transforms-2/files-2.1/61965e5c06bda9445c13760f9d9ef779/vectordrawable-animated-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/xriminact/.gradle/caches/transforms-2/files-2.1/ec593f8d91037f6ef1bbcd6a177afa1c/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/xriminact/.gradle/caches/transforms-2/files-2.1/4f8b5527496d67480951cc322460db7f/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] /home/xriminact/.gradle/caches/transforms-2/files-2.1/fb64895045b937c99805be897a2a6961/vectordrawable-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] /home/xriminact/.gradle/caches/transforms-2/files-2.1/767612e54049c1347a891905a7e9d5e4/media-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/xriminact/.gradle/caches/transforms-2/files-2.1/5276819c062a92c029464122749254f1/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/xriminact/.gradle/caches/transforms-2/files-2.1/4932f7e67b26f042b51fa62f1aa4816d/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/xriminact/.gradle/caches/transforms-2/files-2.1/8849109129fcb2f39779166fb64480b1/coordinatorlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/xriminact/.gradle/caches/transforms-2/files-2.1/00bc847ce5b9e3ce7b40d465bffbf9e9/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/xriminact/.gradle/caches/transforms-2/files-2.1/5ad830c9e1047f79e3f0f7e9e42ab8ab/slidingpanelayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /home/xriminact/.gradle/caches/transforms-2/files-2.1/a3c457ded457b98b207b4f227d629399/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/xriminact/.gradle/caches/transforms-2/files-2.1/3d4a3c67e39fa8d6d0c0f126c28b81d8/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/xriminact/.gradle/caches/transforms-2/files-2.1/82b148795609bbbaf8e825fc2ff2a6bf/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.0] /home/xriminact/.gradle/caches/transforms-2/files-2.1/246153fc0686d4ff78c8961ca91329b7/core-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/xriminact/.gradle/caches/transforms-2/files-2.1/c70a8bef3ed62675d42960780f476d6e/versionedparcelable-1.0.0/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/xriminact/.gradle/caches/transforms-2/files-2.1/fb2fbe77879a57ea0c5dfd6fe59ba874/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/xriminact/.gradle/caches/transforms-2/files-2.1/4c7e5b6d46acfb24c04b3a473c53b419/lifecycle-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/xriminact/.gradle/caches/transforms-2/files-2.1/f582580d3eb247a74d915a27810a4674/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/xriminact/.gradle/caches/transforms-2/files-2.1/c75155371656c04dff3a027cdeb13e8a/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /home/xriminact/.gradle/caches/transforms-2/files-2.1/53b4a4cf87c0ff501a8c414cec884555/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/xriminact/.gradle/caches/transforms-2/files-2.1/94d1bdd9d3f5e77b2c2deb76d0ecef77/lifecycle-viewmodel-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/xriminact/.gradle/caches/transforms-2/files-2.1/3a992d8307f21a8f15eb649383ba6a6a/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/xriminact/.gradle/caches/transforms-2/files-2.1/63647da4654da12a6f2785cfbbad8123/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/xriminact/.gradle/caches/transforms-2/files-2.1/733fc1d306cee2c05d3e1fb0b7527020/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/xriminact/.gradle/caches/transforms-2/files-2.1/fdd65d8b6066fd289a68b42931dc03a2/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/xriminact/VXG.Mobile.SDK.Android-2.0.262_201203/VXGMobileSDK.Android/MediaSDK/EncoderSDK/src/MediaStreamTest/app/src/main/AndroidManifest.xml:2:1-47:12
+INJECTED from /home/xriminact/VXG.Mobile.SDK.Android-2.0.262_201203/VXGMobileSDK.Android/MediaSDK/EncoderSDK/src/MediaStreamTest/app/src/main/AndroidManifest.xml:2:1-47:12
+INJECTED from /home/xriminact/VXG.Mobile.SDK.Android-2.0.262_201203/VXGMobileSDK.Android/MediaSDK/EncoderSDK/src/MediaStreamTest/app/src/main/AndroidManifest.xml:2:1-47:12
+	package
+		ADDED from /home/xriminact/VXG.Mobile.SDK.Android-2.0.262_201203/VXGMobileSDK.Android/MediaSDK/EncoderSDK/src/MediaStreamTest/app/src/main/AndroidManifest.xml:3:5-45
+		INJECTED from /home/xriminact/VXG.Mobile.SDK.Android-2.0.262_201203/VXGMobileSDK.Android/MediaSDK/EncoderSDK/src/MediaStreamTest/app/src/main/AndroidManifest.xml
+		INJECTED from /home/xriminact/VXG.Mobile.SDK.Android-2.0.262_201203/VXGMobileSDK.Android/MediaSDK/EncoderSDK/src/MediaStreamTest/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /home/xriminact/VXG.Mobile.SDK.Android-2.0.262_201203/VXGMobileSDK.Android/MediaSDK/EncoderSDK/src/MediaStreamTest/app/src/main/AndroidManifest.xml:5:5-32
+		INJECTED from /home/xriminact/VXG.Mobile.SDK.Android-2.0.262_201203/VXGMobileSDK.Android/MediaSDK/EncoderSDK/src/MediaStreamTest/app/src/main/AndroidManifest.xml
+		INJECTED from /home/xriminact/VXG.Mobile.SDK.Android-2.0.262_201203/VXGMobileSDK.Android/MediaSDK/EncoderSDK/src/MediaStreamTest/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/xriminact/VXG.Mobile.SDK.Android-2.0.262_201203/VXGMobileSDK.Android/MediaSDK/EncoderSDK/src/MediaStreamTest/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from /home/xriminact/VXG.Mobile.SDK.Android-2.0.262_201203/VXGMobileSDK.Android/MediaSDK/EncoderSDK/src/MediaStreamTest/app/src/main/AndroidManifest.xml:4:5-29
+		INJECTED from /home/xriminact/VXG.Mobile.SDK.Android-2.0.262_201203/VXGMobileSDK.Android/MediaSDK/EncoderSDK/src/MediaStreamTest/app/src/main/AndroidManifest.xml
+		INJECTED from /home/xriminact/VXG.Mobile.SDK.Android-2.0.262_201203/VXGMobileSDK.Android/MediaSDK/EncoderSDK/src/MediaStreamTest/app/src/main/AndroidManifest.xml
+	android:installLocation
+		ADDED from /home/xriminact/VXG.Mobile.SDK.Android-2.0.262_201203/VXGMobileSDK.Android/MediaSDK/EncoderSDK/src/MediaStreamTest/app/src/main/AndroidManifest.xml:6:5-35
+application
+ADDED from /home/xriminact/VXG.Mobile.SDK.Android-2.0.262_201203/VXGMobileSDK.Android/MediaSDK/EncoderSDK/src/MediaStreamTest/app/src/main/AndroidManifest.xml:8:5-28:19
+MERGED from [com.vxg.mediasdk:encodersdk:6.12.20201203] /home/xriminact/.gradle/caches/transforms-2/files-2.1/7e8ab645bf4684495e5ca1b828076554/encodersdk-6.12.20201203/AndroidManifest.xml:28:5-32:19
+MERGED from [com.vxg.mediasdk:encodersdk:6.12.20201203] /home/xriminact/.gradle/caches/transforms-2/files-2.1/7e8ab645bf4684495e5ca1b828076554/encodersdk-6.12.20201203/AndroidManifest.xml:28:5-32:19
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/xriminact/.gradle/caches/transforms-2/files-2.1/3ec6fa8458ddbe732478393a9f9e6c77/constraintlayout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/xriminact/.gradle/caches/transforms-2/files-2.1/3ec6fa8458ddbe732478393a9f9e6c77/constraintlayout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.0.0] /home/xriminact/.gradle/caches/transforms-2/files-2.1/246153fc0686d4ff78c8961ca91329b7/core-1.0.0/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.0] /home/xriminact/.gradle/caches/transforms-2/files-2.1/246153fc0686d4ff78c8961ca91329b7/core-1.0.0/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/xriminact/.gradle/caches/transforms-2/files-2.1/c70a8bef3ed62675d42960780f476d6e/versionedparcelable-1.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/xriminact/.gradle/caches/transforms-2/files-2.1/c70a8bef3ed62675d42960780f476d6e/versionedparcelable-1.0.0/AndroidManifest.xml:22:5-23:19
+	android:requestLegacyExternalStorage
+		ADDED from [com.vxg.mediasdk:encodersdk:6.12.20201203] /home/xriminact/.gradle/caches/transforms-2/files-2.1/7e8ab645bf4684495e5ca1b828076554/encodersdk-6.12.20201203/AndroidManifest.xml:31:9-52
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.0] /home/xriminact/.gradle/caches/transforms-2/files-2.1/246153fc0686d4ff78c8961ca91329b7/core-1.0.0/AndroidManifest.xml:22:18-86
+	android:label
+		ADDED from /home/xriminact/VXG.Mobile.SDK.Android-2.0.262_201203/VXGMobileSDK.Android/MediaSDK/EncoderSDK/src/MediaStreamTest/app/src/main/AndroidManifest.xml:11:9-47
+	android:launchMode
+		ADDED from /home/xriminact/VXG.Mobile.SDK.Android-2.0.262_201203/VXGMobileSDK.Android/MediaSDK/EncoderSDK/src/MediaStreamTest/app/src/main/AndroidManifest.xml:13:9-44
+	android:hardwareAccelerated
+		ADDED from /home/xriminact/VXG.Mobile.SDK.Android-2.0.262_201203/VXGMobileSDK.Android/MediaSDK/EncoderSDK/src/MediaStreamTest/app/src/main/AndroidManifest.xml:9:9-43
+	android:noHistory
+		ADDED from /home/xriminact/VXG.Mobile.SDK.Android-2.0.262_201203/VXGMobileSDK.Android/MediaSDK/EncoderSDK/src/MediaStreamTest/app/src/main/AndroidManifest.xml:14:9-33
+	android:configChanges
+		ADDED from /home/xriminact/VXG.Mobile.SDK.Android-2.0.262_201203/VXGMobileSDK.Android/MediaSDK/EncoderSDK/src/MediaStreamTest/app/src/main/AndroidManifest.xml:15:9-55
+	android:largeHeap
+		ADDED from /home/xriminact/VXG.Mobile.SDK.Android-2.0.262_201203/VXGMobileSDK.Android/MediaSDK/EncoderSDK/src/MediaStreamTest/app/src/main/AndroidManifest.xml:12:9-33
+	android:icon
+		ADDED from /home/xriminact/VXG.Mobile.SDK.Android-2.0.262_201203/VXGMobileSDK.Android/MediaSDK/EncoderSDK/src/MediaStreamTest/app/src/main/AndroidManifest.xml:10:9-37
+activity#veg.mediacapture.sdk.test.MainActivity
+ADDED from /home/xriminact/VXG.Mobile.SDK.Android-2.0.262_201203/VXGMobileSDK.Android/MediaSDK/EncoderSDK/src/MediaStreamTest/app/src/main/AndroidManifest.xml:17:9-23:20
+	android:name
+		ADDED from /home/xriminact/VXG.Mobile.SDK.Android-2.0.262_201203/VXGMobileSDK.Android/MediaSDK/EncoderSDK/src/MediaStreamTest/app/src/main/AndroidManifest.xml:17:19-72
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/xriminact/VXG.Mobile.SDK.Android-2.0.262_201203/VXGMobileSDK.Android/MediaSDK/EncoderSDK/src/MediaStreamTest/app/src/main/AndroidManifest.xml:18:13-22:29
+action#android.intent.action.MAIN
+ADDED from /home/xriminact/VXG.Mobile.SDK.Android-2.0.262_201203/VXGMobileSDK.Android/MediaSDK/EncoderSDK/src/MediaStreamTest/app/src/main/AndroidManifest.xml:19:17-69
+	android:name
+		ADDED from /home/xriminact/VXG.Mobile.SDK.Android-2.0.262_201203/VXGMobileSDK.Android/MediaSDK/EncoderSDK/src/MediaStreamTest/app/src/main/AndroidManifest.xml:19:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/xriminact/VXG.Mobile.SDK.Android-2.0.262_201203/VXGMobileSDK.Android/MediaSDK/EncoderSDK/src/MediaStreamTest/app/src/main/AndroidManifest.xml:21:17-77
+	android:name
+		ADDED from /home/xriminact/VXG.Mobile.SDK.Android-2.0.262_201203/VXGMobileSDK.Android/MediaSDK/EncoderSDK/src/MediaStreamTest/app/src/main/AndroidManifest.xml:21:27-74
+activity#veg.mediacapture.sdk.test.SettingsActivity
+ADDED from /home/xriminact/VXG.Mobile.SDK.Android-2.0.262_201203/VXGMobileSDK.Android/MediaSDK/EncoderSDK/src/MediaStreamTest/app/src/main/AndroidManifest.xml:24:9-27:20
+	android:label
+		ADDED from /home/xriminact/VXG.Mobile.SDK.Android-2.0.262_201203/VXGMobileSDK.Android/MediaSDK/EncoderSDK/src/MediaStreamTest/app/src/main/AndroidManifest.xml:26:13-60
+	android:name
+		ADDED from /home/xriminact/VXG.Mobile.SDK.Android-2.0.262_201203/VXGMobileSDK.Android/MediaSDK/EncoderSDK/src/MediaStreamTest/app/src/main/AndroidManifest.xml:25:13-70
+uses-feature#android.hardware.camera
+ADDED from /home/xriminact/VXG.Mobile.SDK.Android-2.0.262_201203/VXGMobileSDK.Android/MediaSDK/EncoderSDK/src/MediaStreamTest/app/src/main/AndroidManifest.xml:30:5-60
+MERGED from [com.vxg.mediasdk:encodersdk:6.12.20201203] /home/xriminact/.gradle/caches/transforms-2/files-2.1/7e8ab645bf4684495e5ca1b828076554/encodersdk-6.12.20201203/AndroidManifest.xml:17:5-19:36
+MERGED from [com.vxg.mediasdk:encodersdk:6.12.20201203] /home/xriminact/.gradle/caches/transforms-2/files-2.1/7e8ab645bf4684495e5ca1b828076554/encodersdk-6.12.20201203/AndroidManifest.xml:17:5-19:36
+	android:name
+		ADDED from /home/xriminact/VXG.Mobile.SDK.Android-2.0.262_201203/VXGMobileSDK.Android/MediaSDK/EncoderSDK/src/MediaStreamTest/app/src/main/AndroidManifest.xml:30:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from /home/xriminact/VXG.Mobile.SDK.Android-2.0.262_201203/VXGMobileSDK.Android/MediaSDK/EncoderSDK/src/MediaStreamTest/app/src/main/AndroidManifest.xml:31:5-70
+MERGED from [com.vxg.mediasdk:encodersdk:6.12.20201203] /home/xriminact/.gradle/caches/transforms-2/files-2.1/7e8ab645bf4684495e5ca1b828076554/encodersdk-6.12.20201203/AndroidManifest.xml:20:5-22:36
+MERGED from [com.vxg.mediasdk:encodersdk:6.12.20201203] /home/xriminact/.gradle/caches/transforms-2/files-2.1/7e8ab645bf4684495e5ca1b828076554/encodersdk-6.12.20201203/AndroidManifest.xml:20:5-22:36
+	android:name
+		ADDED from /home/xriminact/VXG.Mobile.SDK.Android-2.0.262_201203/VXGMobileSDK.Android/MediaSDK/EncoderSDK/src/MediaStreamTest/app/src/main/AndroidManifest.xml:31:19-67
+uses-permission#android.permission.CAMERA
+ADDED from /home/xriminact/VXG.Mobile.SDK.Android-2.0.262_201203/VXGMobileSDK.Android/MediaSDK/EncoderSDK/src/MediaStreamTest/app/src/main/AndroidManifest.xml:33:5-65
+MERGED from [com.vxg.mediasdk:encodersdk:6.12.20201203] /home/xriminact/.gradle/caches/transforms-2/files-2.1/7e8ab645bf4684495e5ca1b828076554/encodersdk-6.12.20201203/AndroidManifest.xml:24:5-26:36
+MERGED from [com.vxg.mediasdk:encodersdk:6.12.20201203] /home/xriminact/.gradle/caches/transforms-2/files-2.1/7e8ab645bf4684495e5ca1b828076554/encodersdk-6.12.20201203/AndroidManifest.xml:24:5-26:36
+	android:required
+		ADDED from [com.vxg.mediasdk:encodersdk:6.12.20201203] /home/xriminact/.gradle/caches/transforms-2/files-2.1/7e8ab645bf4684495e5ca1b828076554/encodersdk-6.12.20201203/AndroidManifest.xml:26:9-33
+	android:name
+		ADDED from /home/xriminact/VXG.Mobile.SDK.Android-2.0.262_201203/VXGMobileSDK.Android/MediaSDK/EncoderSDK/src/MediaStreamTest/app/src/main/AndroidManifest.xml:33:22-62
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from /home/xriminact/VXG.Mobile.SDK.Android-2.0.262_201203/VXGMobileSDK.Android/MediaSDK/EncoderSDK/src/MediaStreamTest/app/src/main/AndroidManifest.xml:34:5-71
+MERGED from [com.vxg.mediasdk:encodersdk:6.12.20201203] /home/xriminact/.gradle/caches/transforms-2/files-2.1/7e8ab645bf4684495e5ca1b828076554/encodersdk-6.12.20201203/AndroidManifest.xml:11:5-71
+MERGED from [com.vxg.mediasdk:encodersdk:6.12.20201203] /home/xriminact/.gradle/caches/transforms-2/files-2.1/7e8ab645bf4684495e5ca1b828076554/encodersdk-6.12.20201203/AndroidManifest.xml:11:5-71
+	android:name
+		ADDED from /home/xriminact/VXG.Mobile.SDK.Android-2.0.262_201203/VXGMobileSDK.Android/MediaSDK/EncoderSDK/src/MediaStreamTest/app/src/main/AndroidManifest.xml:34:22-68
+uses-permission#android.permission.CHANGE_NETWORK_STATE
+ADDED from /home/xriminact/VXG.Mobile.SDK.Android-2.0.262_201203/VXGMobileSDK.Android/MediaSDK/EncoderSDK/src/MediaStreamTest/app/src/main/AndroidManifest.xml:36:5-79
+MERGED from [com.vxg.mediasdk:encodersdk:6.12.20201203] /home/xriminact/.gradle/caches/transforms-2/files-2.1/7e8ab645bf4684495e5ca1b828076554/encodersdk-6.12.20201203/AndroidManifest.xml:12:5-79
+MERGED from [com.vxg.mediasdk:encodersdk:6.12.20201203] /home/xriminact/.gradle/caches/transforms-2/files-2.1/7e8ab645bf4684495e5ca1b828076554/encodersdk-6.12.20201203/AndroidManifest.xml:12:5-79
+	android:name
+		ADDED from /home/xriminact/VXG.Mobile.SDK.Android-2.0.262_201203/VXGMobileSDK.Android/MediaSDK/EncoderSDK/src/MediaStreamTest/app/src/main/AndroidManifest.xml:36:22-76
+uses-permission#android.permission.INTERNET
+ADDED from /home/xriminact/VXG.Mobile.SDK.Android-2.0.262_201203/VXGMobileSDK.Android/MediaSDK/EncoderSDK/src/MediaStreamTest/app/src/main/AndroidManifest.xml:37:5-67
+MERGED from [com.vxg.mediasdk:encodersdk:6.12.20201203] /home/xriminact/.gradle/caches/transforms-2/files-2.1/7e8ab645bf4684495e5ca1b828076554/encodersdk-6.12.20201203/AndroidManifest.xml:13:5-67
+MERGED from [com.vxg.mediasdk:encodersdk:6.12.20201203] /home/xriminact/.gradle/caches/transforms-2/files-2.1/7e8ab645bf4684495e5ca1b828076554/encodersdk-6.12.20201203/AndroidManifest.xml:13:5-67
+	android:name
+		ADDED from /home/xriminact/VXG.Mobile.SDK.Android-2.0.262_201203/VXGMobileSDK.Android/MediaSDK/EncoderSDK/src/MediaStreamTest/app/src/main/AndroidManifest.xml:37:22-64
+uses-permission#android.permission.CHANGE_WIFI_MULTICAST_STATE
+ADDED from /home/xriminact/VXG.Mobile.SDK.Android-2.0.262_201203/VXGMobileSDK.Android/MediaSDK/EncoderSDK/src/MediaStreamTest/app/src/main/AndroidManifest.xml:38:5-86
+	android:name
+		ADDED from /home/xriminact/VXG.Mobile.SDK.Android-2.0.262_201203/VXGMobileSDK.Android/MediaSDK/EncoderSDK/src/MediaStreamTest/app/src/main/AndroidManifest.xml:38:22-83
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /home/xriminact/VXG.Mobile.SDK.Android-2.0.262_201203/VXGMobileSDK.Android/MediaSDK/EncoderSDK/src/MediaStreamTest/app/src/main/AndroidManifest.xml:39:5-81
+MERGED from [com.vxg.mediasdk:encodersdk:6.12.20201203] /home/xriminact/.gradle/caches/transforms-2/files-2.1/7e8ab645bf4684495e5ca1b828076554/encodersdk-6.12.20201203/AndroidManifest.xml:14:5-81
+MERGED from [com.vxg.mediasdk:encodersdk:6.12.20201203] /home/xriminact/.gradle/caches/transforms-2/files-2.1/7e8ab645bf4684495e5ca1b828076554/encodersdk-6.12.20201203/AndroidManifest.xml:14:5-81
+	android:name
+		ADDED from /home/xriminact/VXG.Mobile.SDK.Android-2.0.262_201203/VXGMobileSDK.Android/MediaSDK/EncoderSDK/src/MediaStreamTest/app/src/main/AndroidManifest.xml:39:22-78
+uses-permission#android.permission.DISABLE_KEYGUARD
+ADDED from /home/xriminact/VXG.Mobile.SDK.Android-2.0.262_201203/VXGMobileSDK.Android/MediaSDK/EncoderSDK/src/MediaStreamTest/app/src/main/AndroidManifest.xml:40:5-75
+	android:name
+		ADDED from /home/xriminact/VXG.Mobile.SDK.Android-2.0.262_201203/VXGMobileSDK.Android/MediaSDK/EncoderSDK/src/MediaStreamTest/app/src/main/AndroidManifest.xml:40:22-72
+uses-permission#android.permission.WAKE_LOCK
+ADDED from /home/xriminact/VXG.Mobile.SDK.Android-2.0.262_201203/VXGMobileSDK.Android/MediaSDK/EncoderSDK/src/MediaStreamTest/app/src/main/AndroidManifest.xml:41:5-68
+MERGED from [com.vxg.mediasdk:encodersdk:6.12.20201203] /home/xriminact/.gradle/caches/transforms-2/files-2.1/7e8ab645bf4684495e5ca1b828076554/encodersdk-6.12.20201203/AndroidManifest.xml:15:5-68
+MERGED from [com.vxg.mediasdk:encodersdk:6.12.20201203] /home/xriminact/.gradle/caches/transforms-2/files-2.1/7e8ab645bf4684495e5ca1b828076554/encodersdk-6.12.20201203/AndroidManifest.xml:15:5-68
+	android:name
+		ADDED from /home/xriminact/VXG.Mobile.SDK.Android-2.0.262_201203/VXGMobileSDK.Android/MediaSDK/EncoderSDK/src/MediaStreamTest/app/src/main/AndroidManifest.xml:41:22-65
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /home/xriminact/VXG.Mobile.SDK.Android-2.0.262_201203/VXGMobileSDK.Android/MediaSDK/EncoderSDK/src/MediaStreamTest/app/src/main/AndroidManifest.xml:42:5-79
+	android:name
+		ADDED from /home/xriminact/VXG.Mobile.SDK.Android-2.0.262_201203/VXGMobileSDK.Android/MediaSDK/EncoderSDK/src/MediaStreamTest/app/src/main/AndroidManifest.xml:42:22-76
+uses-sdk
+INJECTED from /home/xriminact/VXG.Mobile.SDK.Android-2.0.262_201203/VXGMobileSDK.Android/MediaSDK/EncoderSDK/src/MediaStreamTest/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/xriminact/VXG.Mobile.SDK.Android-2.0.262_201203/VXGMobileSDK.Android/MediaSDK/EncoderSDK/src/MediaStreamTest/app/src/main/AndroidManifest.xml
+INJECTED from /home/xriminact/VXG.Mobile.SDK.Android-2.0.262_201203/VXGMobileSDK.Android/MediaSDK/EncoderSDK/src/MediaStreamTest/app/src/main/AndroidManifest.xml
+MERGED from [androidx.appcompat:appcompat:1.0.0] /home/xriminact/.gradle/caches/transforms-2/files-2.1/7df26908078c74ff4eeaf46e7b6b476c/appcompat-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.0] /home/xriminact/.gradle/caches/transforms-2/files-2.1/7df26908078c74ff4eeaf46e7b6b476c/appcompat-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/xriminact/.gradle/caches/transforms-2/files-2.1/062eb74c1a6fe650432564db4113c6b5/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/xriminact/.gradle/caches/transforms-2/files-2.1/062eb74c1a6fe650432564db4113c6b5/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.vxg.mediasdk:encodersdk:6.12.20201203] /home/xriminact/.gradle/caches/transforms-2/files-2.1/7e8ab645bf4684495e5ca1b828076554/encodersdk-6.12.20201203/AndroidManifest.xml:7:5-9:41
+MERGED from [com.vxg.mediasdk:encodersdk:6.12.20201203] /home/xriminact/.gradle/caches/transforms-2/files-2.1/7e8ab645bf4684495e5ca1b828076554/encodersdk-6.12.20201203/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/xriminact/.gradle/caches/transforms-2/files-2.1/3ec6fa8458ddbe732478393a9f9e6c77/constraintlayout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/xriminact/.gradle/caches/transforms-2/files-2.1/3ec6fa8458ddbe732478393a9f9e6c77/constraintlayout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.fragment:fragment:1.0.0] /home/xriminact/.gradle/caches/transforms-2/files-2.1/4f680f5cab482b7966fa9c805ac0cb70/fragment-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /home/xriminact/.gradle/caches/transforms-2/files-2.1/4f680f5cab482b7966fa9c805ac0cb70/fragment-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/xriminact/.gradle/caches/transforms-2/files-2.1/61965e5c06bda9445c13760f9d9ef779/vectordrawable-animated-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/xriminact/.gradle/caches/transforms-2/files-2.1/61965e5c06bda9445c13760f9d9ef779/vectordrawable-animated-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/xriminact/.gradle/caches/transforms-2/files-2.1/ec593f8d91037f6ef1bbcd6a177afa1c/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/xriminact/.gradle/caches/transforms-2/files-2.1/ec593f8d91037f6ef1bbcd6a177afa1c/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/xriminact/.gradle/caches/transforms-2/files-2.1/4f8b5527496d67480951cc322460db7f/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/xriminact/.gradle/caches/transforms-2/files-2.1/4f8b5527496d67480951cc322460db7f/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] /home/xriminact/.gradle/caches/transforms-2/files-2.1/fb64895045b937c99805be897a2a6961/vectordrawable-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] /home/xriminact/.gradle/caches/transforms-2/files-2.1/fb64895045b937c99805be897a2a6961/vectordrawable-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /home/xriminact/.gradle/caches/transforms-2/files-2.1/767612e54049c1347a891905a7e9d5e4/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /home/xriminact/.gradle/caches/transforms-2/files-2.1/767612e54049c1347a891905a7e9d5e4/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/xriminact/.gradle/caches/transforms-2/files-2.1/5276819c062a92c029464122749254f1/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/xriminact/.gradle/caches/transforms-2/files-2.1/5276819c062a92c029464122749254f1/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/xriminact/.gradle/caches/transforms-2/files-2.1/4932f7e67b26f042b51fa62f1aa4816d/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/xriminact/.gradle/caches/transforms-2/files-2.1/4932f7e67b26f042b51fa62f1aa4816d/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/xriminact/.gradle/caches/transforms-2/files-2.1/8849109129fcb2f39779166fb64480b1/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/xriminact/.gradle/caches/transforms-2/files-2.1/8849109129fcb2f39779166fb64480b1/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/xriminact/.gradle/caches/transforms-2/files-2.1/00bc847ce5b9e3ce7b40d465bffbf9e9/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/xriminact/.gradle/caches/transforms-2/files-2.1/00bc847ce5b9e3ce7b40d465bffbf9e9/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/xriminact/.gradle/caches/transforms-2/files-2.1/5ad830c9e1047f79e3f0f7e9e42ab8ab/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/xriminact/.gradle/caches/transforms-2/files-2.1/5ad830c9e1047f79e3f0f7e9e42ab8ab/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/xriminact/.gradle/caches/transforms-2/files-2.1/a3c457ded457b98b207b4f227d629399/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/xriminact/.gradle/caches/transforms-2/files-2.1/a3c457ded457b98b207b4f227d629399/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/xriminact/.gradle/caches/transforms-2/files-2.1/3d4a3c67e39fa8d6d0c0f126c28b81d8/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/xriminact/.gradle/caches/transforms-2/files-2.1/3d4a3c67e39fa8d6d0c0f126c28b81d8/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/xriminact/.gradle/caches/transforms-2/files-2.1/82b148795609bbbaf8e825fc2ff2a6bf/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/xriminact/.gradle/caches/transforms-2/files-2.1/82b148795609bbbaf8e825fc2ff2a6bf/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] /home/xriminact/.gradle/caches/transforms-2/files-2.1/246153fc0686d4ff78c8961ca91329b7/core-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] /home/xriminact/.gradle/caches/transforms-2/files-2.1/246153fc0686d4ff78c8961ca91329b7/core-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/xriminact/.gradle/caches/transforms-2/files-2.1/c70a8bef3ed62675d42960780f476d6e/versionedparcelable-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/xriminact/.gradle/caches/transforms-2/files-2.1/c70a8bef3ed62675d42960780f476d6e/versionedparcelable-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/xriminact/.gradle/caches/transforms-2/files-2.1/fb2fbe77879a57ea0c5dfd6fe59ba874/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/xriminact/.gradle/caches/transforms-2/files-2.1/fb2fbe77879a57ea0c5dfd6fe59ba874/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/xriminact/.gradle/caches/transforms-2/files-2.1/4c7e5b6d46acfb24c04b3a473c53b419/lifecycle-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/xriminact/.gradle/caches/transforms-2/files-2.1/4c7e5b6d46acfb24c04b3a473c53b419/lifecycle-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/xriminact/.gradle/caches/transforms-2/files-2.1/f582580d3eb247a74d915a27810a4674/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/xriminact/.gradle/caches/transforms-2/files-2.1/f582580d3eb247a74d915a27810a4674/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/xriminact/.gradle/caches/transforms-2/files-2.1/c75155371656c04dff3a027cdeb13e8a/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/xriminact/.gradle/caches/transforms-2/files-2.1/c75155371656c04dff3a027cdeb13e8a/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/xriminact/.gradle/caches/transforms-2/files-2.1/53b4a4cf87c0ff501a8c414cec884555/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/xriminact/.gradle/caches/transforms-2/files-2.1/53b4a4cf87c0ff501a8c414cec884555/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/xriminact/.gradle/caches/transforms-2/files-2.1/94d1bdd9d3f5e77b2c2deb76d0ecef77/lifecycle-viewmodel-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/xriminact/.gradle/caches/transforms-2/files-2.1/94d1bdd9d3f5e77b2c2deb76d0ecef77/lifecycle-viewmodel-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/xriminact/.gradle/caches/transforms-2/files-2.1/3a992d8307f21a8f15eb649383ba6a6a/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/xriminact/.gradle/caches/transforms-2/files-2.1/3a992d8307f21a8f15eb649383ba6a6a/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/xriminact/.gradle/caches/transforms-2/files-2.1/63647da4654da12a6f2785cfbbad8123/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/xriminact/.gradle/caches/transforms-2/files-2.1/63647da4654da12a6f2785cfbbad8123/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/xriminact/.gradle/caches/transforms-2/files-2.1/733fc1d306cee2c05d3e1fb0b7527020/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/xriminact/.gradle/caches/transforms-2/files-2.1/733fc1d306cee2c05d3e1fb0b7527020/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/xriminact/.gradle/caches/transforms-2/files-2.1/fdd65d8b6066fd289a68b42931dc03a2/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/xriminact/.gradle/caches/transforms-2/files-2.1/fdd65d8b6066fd289a68b42931dc03a2/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+INJECTED from /home/xriminact/VXG.Mobile.SDK.Android-2.0.262_201203/VXGMobileSDK.Android/MediaSDK/EncoderSDK/src/MediaStreamTest/app/src/main/AndroidManifest.xml
+INJECTED from /home/xriminact/VXG.Mobile.SDK.Android-2.0.262_201203/VXGMobileSDK.Android/MediaSDK/EncoderSDK/src/MediaStreamTest/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/xriminact/VXG.Mobile.SDK.Android-2.0.262_201203/VXGMobileSDK.Android/MediaSDK/EncoderSDK/src/MediaStreamTest/app/src/main/AndroidManifest.xml
+		ADDED from /home/xriminact/VXG.Mobile.SDK.Android-2.0.262_201203/VXGMobileSDK.Android/MediaSDK/EncoderSDK/src/MediaStreamTest/app/src/main/AndroidManifest.xml
+		INJECTED from /home/xriminact/VXG.Mobile.SDK.Android-2.0.262_201203/VXGMobileSDK.Android/MediaSDK/EncoderSDK/src/MediaStreamTest/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/xriminact/VXG.Mobile.SDK.Android-2.0.262_201203/VXGMobileSDK.Android/MediaSDK/EncoderSDK/src/MediaStreamTest/app/src/main/AndroidManifest.xml
+		ADDED from /home/xriminact/VXG.Mobile.SDK.Android-2.0.262_201203/VXGMobileSDK.Android/MediaSDK/EncoderSDK/src/MediaStreamTest/app/src/main/AndroidManifest.xml
+		INJECTED from /home/xriminact/VXG.Mobile.SDK.Android-2.0.262_201203/VXGMobileSDK.Android/MediaSDK/EncoderSDK/src/MediaStreamTest/app/src/main/AndroidManifest.xml
